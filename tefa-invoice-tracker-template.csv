@@ -1,0 +1,2 @@
+order_or_invoice_id,student_initials,service_or_item,amount_usd,date_submitted,status,status_changed_on,days_waiting,next_step,owner,notes
+EXAMPLE-001,(sample row; delete),[e.g. Math tutoring · 8 sessions],[0.00],[YYYY-MM-DD],submitted / confirmed / needs info / paid,[YYYY-MM-DD],[number],[what happens next],[who handles it],[anything else]
